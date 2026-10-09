@@ -2,3 +2,4 @@ im learning git and github
 i learned git status and git comit
 you missed the line..
 I am learning how Git and GitHub work together.
+I can push changes from my computer to GitHub.
