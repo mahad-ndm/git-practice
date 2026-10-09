@@ -1,1 +1,3 @@
 im learning git and github
+i learned git status and git comit
+you missed the line..
