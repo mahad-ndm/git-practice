@@ -1,4 +1,4 @@
-im learning git and github
+im learning git for devOps
 i learned git status and git comit
 you missed the line..
 I am learning how Git and GitHub work together.
